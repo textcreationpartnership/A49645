@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A question deeply concerning married persons and such as intend to marry propounded and resolved according to the scriptures.</title>
+            <author>A. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49645</idno>
+            <idno type="STC">Wing L5</idno>
+            <idno type="STC">ESTC R43329</idno>
+            <idno type="EEBO-CITATION">27207027</idno>
+            <idno type="OCLC">ocm 27207027</idno>
+            <idno type="VID">110033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1723:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A question deeply concerning married persons and such as intend to marry propounded and resolved according to the scriptures.</title>
+                  <author>A. L.</author>
+               </titleStmt>
+               <extent>[2], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Underhill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Author to the Christian Reader" signed: A.L.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women in Christianity --  Early works to 1800.</term>
+               <term>Married women --  Early works to 1800.</term>
+               <term>Husband and wife --  Early works to 1800.</term>
+               <term>Women's rights --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110033:1"/>
+            <p>A QUESTION Deeply concerning Married Perſons, and ſuch as intend to MARRY: Propounded and Reſolved according to the SCRIPTURES.</p>
+            <q>
+               <bibl>
+                  <hi>JER. 20.9.</hi>
+               </bibl>
+               <p>Then I ſaid, I will not make mention of him, nor ſpeak any more in his Name; but his Word was as a burning fire ſhut up in my bones, and I was weary of forbearing, and could not ſtay.</p>
+            </q>
+            <figure>
+               <head>ANC-HORA-SPEI</head>
+               <figDesc>printer's device of Thomas Underhill</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill,</hi> at the Anchor and Bible <hi>Pauls</hi> Church-yard. 1653.</p>
+            <pb facs="tcp:110033:2" rendition="simple:additions"/>
+            <pb facs="tcp:110033:2"/>
+            <pb facs="tcp:110033:3"/>
+            <pb facs="tcp:110033:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110033:4"/>
+            <head>The Author to the Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F the Queſtion propoſed be reſolved Negatively by the Scriptures, and practiſed contrarily by many Profeſ<g ref="char:EOLhyphen"/>ſors, doth not the Lord ſeek for a man to make up the hedge for preſerving the diſtinct bounds of his honoura<g ref="char:EOLhyphen"/>ble Ordinance? The candle of this Negative reſolution was long ſince lighted to give light to ſome of Gods houſ<g ref="char:EOLhyphen"/>hold, that had removed the bounds; but put under a buſhel in expecta<g ref="char:EOLhyphen"/>tion of ſome greater Lamp that might give light to all in the houſe of God for a more full illumination. But not finding that to appear (as he hoped) in all the Orthodox Treatiſes concerning Marriage, he ſtayed ſo long upon <hi>Moſes</hi> his pretences, <hi>Who am I?</hi> and <hi>I am not eloquent,</hi> &amp;c. and <hi>Send I pray thee by the hand of him whom thou wilt ſend,</hi> till the anger of the Lord made this poor candle like fire ſhut up in his bones, and now con<g ref="char:EOLhyphen"/>ſtraineth him to ſet it on a candleſtick, leſt if he tarry longer, miſchief come upon ſome of Gods Family, and on himſelf too for not giving warning.</p>
+            <p>And therefore I moſt humbly beſeech all the houſhold of God (whom it may concern) eſpecially thoſe that ſeem to be Pillars in his Houſe; that as they reade they will ſo conſider and try, that if inſtead of gold, ſil<g ref="char:EOLhyphen"/>ver, precious ſtones, there be built any wood, hay, ſtubble on the Foun<g ref="char:EOLhyphen"/>dation of the Prophets and Apoſtles by me alleadged, that by the ſpirit of judgement and of burning they will afford their helping hand to burn it ſo, that whatſoever loſſe I may ſuffer, may turn to the gain of Gods people. But if the work abide trial, that then they will vouchſafe to give unto me the right hand of fellowſhip, that none of Gods Houſe be edified to perdition (as the Apoſtle ſpeaks in another caſe) by the different Judgement or Practice of any in reputation for Knowledge or con<g ref="char:EOLhyphen"/>ſcience:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 Cor. 8.10.</note>
+            </p>
+            <closer>
+               <signed>
+                  <hi>So prayeth the leaſt of Gods Servants in the Work of the Miniſtry</hi> A. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110033:4"/>
+            <head>A QUESTION deeply concerning Married perſons, and ſuch as intend to Marry, propounded, and reſolved ac<g ref="char:EOLhyphen"/>cording to the Scriptures.</head>
+            <head type="sub">Whether any Woman (Widow or Maid) intending to Marry, may before her Marriage reſerve any of her Goods in her own power, to be dispoſed by her after ſhe ſhall be Married without her Husbands direction or conſent?</head>
+            <p>The reſolution is Negative for the Reaſons following.</p>
+            <p n="1">1. <seg rend="decorInit">T</seg>His removeth the meerſtones of Gods Ordinance, who hath<note n="a" place="margin">Eph. 5.23, 24.</note> ſet the Husband to be the head of the Wife as Chriſt is the head of the Church, and the Wives to be ſubject in every thing to their own Husbands as the Church is unto Chriſt. And if it be a curſed act to remove<note n="b" place="margin">Deut. 27.17.</note> our neighbours Landmark, how much more<note n="c" place="margin">Mal. 1.8, 14.</note> curſed (by deſert) is that deceiver who will offer this to the Lord of Hoſts, the<note n="d" place="margin">Gen. 14.22.</note> moſt high God, the poſſeſſor of Heaven and earth, whoſe Name is dreadfull among the heathen? Therefore in deteſtation of all ſuch preſumptions every vertuous woman ſhould ſay with<note n="e" place="margin">Gen. 49.6.</note> 
+               <hi>Jacob,</hi> My ſoul enter not into ſuch ſecrets, for they are curſed.</p>
+            <p n="2">2. As the Wife even in the ſtate of innocency owed ſubjection to her Husband, be<g ref="char:EOLhyphen"/>cauſe<note n="f" place="margin">Rom. 2.13.</note> 
+               <hi>Adam</hi> was firſt formed, then <hi>Eve;</hi> and<note n="g" place="margin">1 Cor. 11.8.</note> the man is not of the woman, but the woman of the man; neither was the<note n="h" place="margin">ver. 9.</note> man created for the woman, but the woman for the man: ſo after the fall, this ſubjection, which before ſin entred was<note n="i" place="margin">Rom. 7.22.</note> delightfull and<note n="k" place="margin">1 Joh. 5.3.</note> not grievous, was then impoſed as a<note n="l" place="margin">1 Tim. 2.11, &amp;c.</note> penalty of her tranſgreſſion,<note n="m" place="margin">Gen. 3.16.</note> curbing and keep<g ref="char:EOLhyphen"/>ing under her deſires. Now if it were a matter of <note n="n" place="margin">Jer. 27.8.</note> death not to ſubmit the neck to <hi>Nebuchadnezzars</hi> yoke when the Lord impoſed it, and he that would rebell-like break that yoke, ſhould<note n="o" place="margin">Jer. 28.13.</note> make to himſelf yokes of iron inſtead of yokes of wood: ſhall any woman<note n="p" place="margin">Iſa. 9.9.</note> in the pride and ſtoutneſſe of her heart ſlip her neck out of Gods yoke,<note n="q" place="margin">Jer. 5.3.</note> and refuſe to receive correction; thinking to reverſe the Lords decree, like thoſe rebels of old, who<note n="r" place="margin">Iſa. 9.10.</note> ſaid The bricks are fallen down, but we will build with hewen ſtones? What though<note n="ſ" place="margin">Jer. 28.15, 16</note> 
+               <hi>Hananiah</hi> and other Prophets taught rebellion againſt the Lord, and the <note n="t" place="margin">Jer. 5.31.</note> peo<g ref="char:EOLhyphen"/>ple loved to have it ſo; was not the Lords ſoul<note n="u" place="margin">ver. 23, 29.</note> avenged on ſuch rebels, and the<note n="*" place="margin">Eze. 14.10.</note> puniſh<g ref="char:EOLhyphen"/>ment of the Prophet even as the puniſhment of thoſe that ſought unto him? And doth not the Lord call in the<note n="*" place="margin">Jer. 5.22.</note> waves of the ſea to teſtifie againſt all ſuch ſottiſh rebellion?</p>
+            <p>Wherefore ſeeing the Lord is<note n="x" place="margin">Job 37.23.</note> ſo excellent in power and judgement, that none <note n="y" place="margin">Job 9.4.</note> hath been fierce againſt him and hath proſpered: and ſeeing he is ſo<note n="z" place="margin">Exod 20.</note> jealous of the glory of his holineſſe and juſtice, that he hath not<note n="a" place="margin">2 Sam. 12.9, 10, 11, 12, 13, 14. Num. 20.12. Deut. 3.23, &amp;c. 1 Sam. 3.11, 12, 13.</note> pardoned the faults of his own faithfull ſer<g ref="char:EOLhyphen"/>vants without heavy judgements, as fines ſet on their heads to the<note n="b" place="margin">Jer. 55.28, 29 1 Pet. 4.17.</note> terror of the ungodly: ſhould not all Wives beware that<note n="c" place="margin">Job 36.21.</note> they chooſe not iniquity rather then affliction, and <note n="d" place="margin">Hoſ. 5.10.</note> remove the bound like the Princes of <hi>Judah,</hi> leaſt God pour out his wrath like water, and make to them yokes of iron inſtead of yokes of wood?</p>
+            <p>The religious Wife therefore for her own ſafety as well as for Gods Honour, muſt<note n="e" place="margin">Eph. 5.22, 24.</note> ſubmit her ſelf to her own Husband, and be ſubject to him in every thing; bearing this yoke of the Lord not only patiently without grudging becauſe it is<note n="f" place="bottom">Mich. 7.9. Lam. 3.39.</note> her own puniſh<g ref="char:EOLhyphen"/>ment, that is, of her own<note n="g" place="bottom">Ier. 2.17.</note> procuring; but willingly without ſhrinking from it, becauſe it is the<note n="h" place="bottom">Iſa. 26.9.</note> Lords judgement and a cognizance of his holineſſe and juſtice, and the inha<g ref="char:EOLhyphen"/>bitants of the world ſhall learn righteouſneſſe by it.</p>
+            <pb n="2" facs="tcp:110033:5"/>
+            <p n="3">3. As God<note n="i" place="margin">Rom. 8.28.</note> makes all things work together for good to thoſe that love him, ſo this yoke of ſubjection, is by Chriſt made<note n="k" place="margin">Mat. 11 30.</note> an eaſie yoke to the beleeving Wife, and no leſſe profitable then comfortable. For ſhe being the <note n="l" place="margin">1 Pet. 3.7.</note> weaker veſſel, and conſequently ea<g ref="char:EOLhyphen"/>ſier to be deceived in judgement and perverted in affection (as<note n="m" place="margin">2 Tim. 3.6.</note> ſilly women led with divers luſts are ſoon led captives) therefore hath God ſet her Husband over her as her<note n="n" place="margin">Prov. 2.17.</note> guide and<note n="o" place="margin">Eph. 5.23.</note> head; not only by <note n="p" place="margin">1 Cor. 14.35.</note> teaching and informing her judgement, but by<note n="q" place="margin">Gen. 3.16.</note> ru<g ref="char:EOLhyphen"/>ling to maſter her affections: that he may thus be the inſtrumental ſaviour of his wife, as<note n="r" place="margin">Eph. 5.23.</note> Chriſt is the efficient Saviour of his Church. Now when God doth thus in<note n="ſ" place="margin">Hab. 3.2.</note> wrath re<g ref="char:EOLhyphen"/>member mercy, and<note n="t" place="margin">Jam. 4.15.</note> offereth ſuch grace to the humble Wife, that in<note n="u" place="margin">Mat. 11.29.</note> taking his yoke up<g ref="char:EOLhyphen"/>on her ſhe ſhall finde reſt to her ſoul, and that in her ſubjection ſhall be her preſervation: will ye<note n="*" place="margin">Deut. 32.6.</note> ſo reward the Lord O ye fooliſh women and unwiſe, as with that frowardgenera<g ref="char:EOLhyphen"/>tion to<note n="x" place="margin">Iſa. 30.16.</note> ſay no, we<note n="y" place="margin">Iſa. 28.12.</note> will not hear it, and<note n="z" place="margin">Ier. 5.5.</note> altogether break the yoke and burſt the bonds?</p>
+            <p>Hearken O ye Wives and hear my ſpeech I pray you: Is not this a miſerable<note n="a" place="margin">Ier. 5.4.</note> foo<g ref="char:EOLhyphen"/>liſhneſſe, yea a<note n="b" place="margin">Ier. 18.12.</note> deſperate ſtubborneſſe, not to know the way of the Lord and the judge<g ref="char:EOLhyphen"/>ment of your God, but to ſling off the plaiſter whereby God would<note n="c" place="margin">Ier. 3.22.</note> heal your back<g ref="char:EOLhyphen"/>ſliding? For what ſaith the Scripture?<note n="d" place="margin">1 Tim. 2.14.</note> 
+               <hi>Adam</hi> was not deceived, but the woman be<g ref="char:EOLhyphen"/>ing deceived was in the tranſgreſſion. What was not <hi>Adam</hi> deceived at all? yea, as ap<g ref="char:EOLhyphen"/>peareth firſt, in that both their eyes are<note n="e" place="margin">Gen. 3 7.</note> ſaid to be opened, after they had eaten; and ſecondly in Gods ironicall upbraiding him, ſaying, <note n="f" place="margin">Gen. 3.22.</note> The man is become as one of us to know good and evil: both which ſayings have relation to the devils ſophiſticall pro<g ref="char:EOLhyphen"/>miſe<note n="g" place="margin">ver. 4.5.</note> ſet down before, wherein he inſinuated as if he had been a fecret friend of theirs, and wiſhed them more good then God himſelf. So that <hi>Adam</hi> was not primarily decei<g ref="char:EOLhyphen"/>ved, but the woman being firſt deceived, became the devils Proctor,<note n="h" place="margin">ver. 6.</note> and prevailed with <hi>Adam</hi> to be in the ſame tranſgreſſion with her. For the devil as a cunning Pyrate, in<g ref="char:EOLhyphen"/>tending to<note n="i" place="margin">1 Tim. 6.</note> drown them both in perdition, (for which cauſe Chriſt ſaith<note n="k" place="margin">Iohn 8.</note> he was a ly<g ref="char:EOLhyphen"/>er and a murderer from the beginning) began firſt to board the weaker veſſel, and drawing her to a parley, and ſhe preſuming without her Husband to hold tattle with the ſubtill Serpent, was ſoon ſeduced, and ſhe <note n="l" place="margin">Gen 3.1, 2, 3.</note> earing<note n="m" place="margin">ver. 6.</note> gave alſo to her husband; pre<g ref="char:EOLhyphen"/>ſuming to ſchool him and to preſcribe what he was to do, and ſo he did eat, by heark<g ref="char:EOLhyphen"/>ning to the voice of his wife, as God<note n="n" place="margin">ver. 17.</note> charged him in his arraignment.</p>
+            <p>O that Women were<note n="o" place="margin">Deut. 32 29.</note> wiſe, that they underſtood this, that God (who<note n="p" place="margin">2 Cor. 9.6.</note> commanded the light to ſhine out of darkneſſe, and<note n="q" place="margin">Iſa. 53.</note> healeth us by his Sons ſtripes, and by deliver<g ref="char:EOLhyphen"/>ing him to<note n="r" place="margin">Rom. 8.</note> death, and<note n="ſ" place="margin">Heb. 12.</note> ſhame,<note n="t" place="margin">2 Cor. 9.15.</note> brings us to life and<note n="u" place="margin">Heb. 2.</note> glory) hath been pleaſed to cure the<note n="*" place="margin">2 Tim. 5.13.</note> pratling infirmity of women, by<note n="x" place="margin">1 Cor. 14 34.</note> commanding that whole ſex to perpetuall ſil<g ref="char:EOLhyphen"/>ence in the Churches; her preſumption in taking on her to teach<note n="y" place="margin">1 Tim. 2 11, 12.</note> and uſurp authority over the man by requiting the woman to learn in ſilence with all ſubjection. And be<g ref="char:EOLhyphen"/>cauſe <hi>Eve</hi> being a wife aggravated that her preſumption againſt her own husband (who<note n="z" place="margin">Gen 2.17.</note> hearkned to her voice, and ſhe<note n="a" place="margin">ver. 6.</note> gave him and he did eat) therefore for the cure of her and every elect wife<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſubject to the like corruption, God chargeth them that they not only<note n="c" place="margin">1 Cor. 14 34.</note> ask their own husbands at home (that they learn of them, being men of<note n="d" place="margin">1 Pet.</note> know<g ref="char:EOLhyphen"/>ledge, above all others in private) but that their<note n="e" place="margin">Gen. 3 16.</note> deſires ſhall be to their husbands, and they ſhalt rule over them; ſo that they muſt <note n="f" place="margin">Eph. 5.22.</note> ſubmit themſelves to their own huſ<g ref="char:EOLhyphen"/>bands as to the Lord, and be<note n="g" place="margin">ver. 24.</note> ſubject to them in every thing as the Church is unto Chriſt And therefore the Apoſtle after he had largely diſcourſed of both their duties, ſummarily concludes all in this ſaying,<note n="h" place="margin">ver. 35.</note> Let every husband love his wife as himſelf, and for the wife<note n="i" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> fear her husband;<note n="*" place="margin">1 Pet. 3.2.</note> fear I ſay to diſpleaſe him in any thing wherein God is not diſpleaſed, though it never ſo much croſſe her deſires; how elſe can ſhe be ſubject in every thing as God requireth?</p>
+            <pb n="3" facs="tcp:110033:5" rendition="simple:additions"/>
+            <p>Thus <hi>Sarah</hi>
+               <note n="k" place="margin">1 Pet. 3.6. Gen. 18.12.</note> obeyed <hi>Abraham</hi> and called him Lord, acknowledging in word and deed her husband to be her governour, and therein is commended as the<note n="l" place="margin">1 Pet. 3.8.</note> mother of all beleeving wives. And whatſoever wife is<note n="m" place="margin">Joh. 1.13.</note> born of God to be a daughter of <hi>Sarah,</hi> and to walk uprightly, ſhe will finde and feel theſe words and commandements of the Lord to be<note n="n" place="margin">Micah 6.7.</note> good, and not<note n="o" place="margin">1 John 5.3, 4</note> grievous: and with ſul miſſion and obedience ſhe will take them upon her, as a<note n="p" place="margin">Matth. 11.3</note> eaſie yoke and a light burden, becauſe ſhe thus<note n="q" place="margin">1 Tim. 2.15</note> continuing in faith, and charity and holineſſe with ſobriety ſhall be ſaved, and<note n="r" place="margin">Phil. 21.12.</note> make an end of her own ſalvation with fear and trembling. Contrariwiſe if any wives<note n="ſ" place="margin">1 Pet. 2.8.</note> ſtumble at the word being diſobedient, and<note n="t" place="margin">Iſa. 2.20.</note> refuſe and rebell (whatſoever<note n="u" place="margin">2 Tim. 3.3.</note> ſhew they make of godlineſſe, denying the power thereof) God will refuſe to acknowledge them as<note n="*" place="margin">1 Tim. 2.15</note> daughters of <hi>Sa<g ref="char:EOLhyphen"/>rah,</hi> and will prove to their wo, that no promiſe of ſalvation belongs to them if they refuſe to obey as <hi>Sarah</hi> did And therefore God in his promiſe of<note n="*" place="margin">1 Tim. 2.15</note> ſaving wives, coupleth faith, and charity, and holineſſe with ſobriety, which ſobriety implyeth both their<note n="x" place="margin">verſe 11.</note> lear<g ref="char:EOLhyphen"/>ning in ſilence with all ſubjection, and their not <note n="y" place="margin">verſe 12.</note> uſurping authority over the man.</p>
+            <p>
+               <hi>Object.</hi> 1. But may not a Wife ſpeak to inform her Husband wherein he erreth, and whet him on in good duties wherein he is dull and negligent? Yea, if her Husband be ſuch a <hi>Nabal,</hi> that by his folly he is drawing a miſchief on himſelf and his houſhold, and is ſuch a ſon of <hi>Belial,</hi> that he may not be ſpoken unto<g ref="char:punc">▪</g> may not a wife in ſuch a eaſe, without his direction or conſent, take and improve his goods and ſervants for pre<g ref="char:EOLhyphen"/>venting the miſchef?</p>
+            <p>
+               <hi>Sol.</hi> As at firſt God made <hi>Eve</hi>
+               <note n="a" place="margin">Gen. 2.18.</note> a meet help for <hi>Adam,</hi> ſo a man may poſſibly<note n="b" place="margin">Prov. 31.10.</note> finde (though rarely as <hi>Solomon</hi> intimateth) a vertuous woman, with graces more precious then pearls. And as no ſmall<note n="c" place="margin">1 Pet. 3.7.</note> honour is to be given of husbands to weaker veſſels ſo richly fraughted, ſo husbands that have ſuch <note n="d" place="margin">Prov. 17.16.</note> prices put into their hands, to get or im<g ref="char:EOLhyphen"/>prove wiſdome, are branded for fools,<note n="e" place="margin">Eccl. 4.9.</note> if they have no hearts to uſe them For as<note n="f" place="margin">Prov. 31.12.</note> two are better then one, ſo ſometimes the weaker veſſel may hold ſtaunch, when the ſtronger may fail. And when we read that the vertuous woman will do her husband good and not evil all the days of her life; and that one of her vertues wherein ſhe excelleth others, is the<note n="g" place="margin">Prov. 31.26.</note> Law of kindneſſe in her tongue, whereby ſhe openeth her mouth with wiſdome; and that rebuke and converſion of a ſinner from the errour of his way, are<note n="h" place="margin">Lev. 19.17. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 5.20.</note> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> love, and as<note n="i" place="margin">Rom. 13.8.</note> due debt to be rendred to every one, much more to a husband from his wife: what a<note n="k" place="margin">1 Sam. 25.</note> ſon of <hi>Bclial</hi> were he that would not be ſpoken unto by ſuch a ve<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uous wife? and eſpecially like<note n="l" place="margin">1 Pet. 3 6.</note> 
+               <hi>Sarah</hi> (who obeyed <hi>Abraham</hi> and called him Lord) reve<g ref="char:EOLhyphen"/>rence from a<note n="m" place="margin">v<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 4.</note> meek and quiet ſpirit ſhall attend the Law of kindneſſe in hot tongue: not daring contemptuouſly to crew over her husband like proud<note n="n" place="margin">1 P<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 21.7.</note> 
+               <hi>Jezabel,</hi> or contume liouſly to laſh him with the<note n="o" place="margin">Iob 5.21.</note> ſcourge of the tongue like ſcornfull<note n="p" place="margin">2 Sam. 6.20.</note> 
+               <hi>Michal,</hi> which God<note n="q" place="margin">1 Tim 5 <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> forbids in all inferiours towards their ſuperiours.</p>
+            <p>And for the honour and comfort of vertuous wives, we finde it written how <hi>Sarah</hi> in<g ref="char:EOLhyphen"/>formed her husband what was to be done with<note n="r" place="margin">Gen. 21.9, 10</note> the b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dwoman and her ſonne, and how therein God commanded <hi>Abraham</hi> to<note n="ſ" place="margin">verſe 11, 12.</note> hearken to the voice of his wife in all that ſhe had ſaid, though the thing were very grievous in <hi>Abrahams</hi> ſight becauſe of his ſonne. Likewiſe <hi>Rebekah</hi> eſpying her husbands errour, was a meet help to him<note n="t" place="margin">Gen. 27.5.</note> whereby he con<g ref="char:EOLhyphen"/>ferred the bleſſing on <hi>Jacob,</hi> according to <note n="u" place="margin">Gen. 25.23.</note> Gods prediction, though ſhe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aned in many circumſtances. And ſo the gracious Shanamite is regiſtred not only for conſtraining the Prophet to eat bread as he paſſed by, but alſo for <note n="x" place="margin">1 Reg. 4.8, <hi>&amp;c.</hi>
+               </note> ſtirring up her husband to make ſpeciall proviſion for the Prophets accommodation whereby ſhe obtained the bleſſing of a ſonne, being before childleſſe. And <hi>Abigail</hi> a woman of great underſtanding, how is ſhe ſet forth and ſet up as a Crown to her fooliſh husband, in<note n="y" place="margin">1 Sam. 25 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 14. &amp;c.</note> taking and improving his goods and ſervants without his direction or conſent, whereby ſhe ſaved him and his
+<pb n="4" facs="tcp:110033:6"/>family from a miſchief whereof he was inſenſible? And how came the<note n="z" place="margin">ver. 32, 33. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 31.10. and 12.4.</note> bleſſing of <hi>David</hi> upon her and her advice which kept him that day from ſhedding bloud? And <hi>Nabals</hi> may be their names, and folly is with them, that give not due honour to ſuch ver<g ref="char:EOLhyphen"/>tuous wives, whoſe price is far above rubies, and who are Crowns to their husbands.</p>
+            <p>
+               <hi>Object.</hi> 2. But may not a Maid, a Widow eſpecially, before Marriage, in diſcretion reſerve ſomething to be in her power and diſpoſition after ſhe ſhall be a Wife, and that for good to her Husband, to help him at a need, or to help her former Children, or other Saints of God?</p>
+            <p>
+               <hi>Sol.</hi> Concerning her former Children or other Saints, ſhe was to<note n="z" place="margin">Tim. 5.8.</note> provide for them while things were in<note n="a" place="margin">Acts 5.5.</note> her own power: but if being wife ſhe withhold her obedience to God and ſubjection to her husband under ſuch pretences, ſhe muſt know that<note n="b" place="margin">1 Sam. 15.22.</note> obe<g ref="char:EOLhyphen"/>dience is better then ſacrifice, and that<note n="c" place="margin">ver. 23.</note> rebellion is as the ſin of witchcraft: and if ſhe wilfully perſiſt to reject the word of the Lord, God will reject her from being a daugh<g ref="char:EOLhyphen"/>ter of <hi>Sarah.</hi> For what is this but to kick at Gods Ordinance, as<note n="d" place="margin">1 Sam. 2.29.</note> 
+               <hi>Ely</hi> and his ſons kicked at Gods ſacrifices, and to<note n="e" place="margin">Mat. 10.37.</note> honour and love her Children and Saints above God, as <hi>Ely</hi> did his ſons?<note n="f" place="margin">Eze. 14.4.</note> And what is that, but to ſet up her Children and Saints as Idols in her heart? and her ſtubbornneſſe in this kinde will be no leſſe then<note n="g" place="margin">1 Sam. 15.23</note> as iniquity and ido<g ref="char:EOLhyphen"/>latry.</p>
+            <p>Secondly, Concerning her pretended diſcretion and goodneſſe towards her husband, ſhe muſt learn that God hath coupled the<note n="h" place="margin">Tit. 2.5.</note> diſcretion and goodneſſe of a wife unto ſub<g ref="char:EOLhyphen"/>jection to her husband: And therefore ſo long as ſhe refuſeth ſubjection, ſhe can never approve her ſelf unto God to be a diſcreet or good wife. Nay whiles under colour of diſcretion and goodneſſe, ſhe withdrawes her ſubjection, and makes a divorce betwixt thoſe duties which God hath coupled together; ſhe <note n="i" place="margin">Pſal. 73.27.</note> goeth a whoring from God, in withdrawing her heart from him, and not<note n="k" place="margin">Prov. 3.5, 6.</note> truſting in him with all her heart, nor ac<g ref="char:EOLhyphen"/>knowledging him in all her wayes, but leaning to her own underſtanding: And thus miſſing Gods<note n="l" place="margin">ver. 6.</note> direction, ſhe goeth the high way to<note n="m" place="margin">Pſal. 73.27.</note> deſtruction. This diſcretion therefore is not<note n="n" place="margin">Iac. 3.15.</note> the wiſdome from above, but is earthly, ſenſuall and deviliſh; witneſſe the<note n="o" place="margin">ver. 14, 16.</note> bitter envying and ſtrife that appeareth in ſuch wives, when they are therein gain<g ref="char:EOLhyphen"/>ſaid, inſtead of that<note n="p" place="margin">1 Pet. 3.4.</note> meek and quiet ſpirit which ſhould be in them, and which is in the ſight of God of great price.</p>
+            <p>
+               <hi>Object.</hi> 3. But what if after ſhe become a Wife, ſhe without her husbands knowledge or conſent put over ſuch things as ſhe before reſerved in her own power to ſome other godly men in truſt, to be kept and diſpoſed by them as they ſhall ſee good?</p>
+            <p>
+               <hi>Sol.</hi> This is to<note n="q" place="margin">Iſa. 59.5.</note> hatch Cockatrice eggs and to weave the Spiders web, and <note n="r" place="margin">29.15.</note> woe to them that ſeek deep to hide their counſell from the Lord, and their works are in the dark. And is not this to<note n="ſ" place="margin">Iſa. 5.18.</note> draw iniquity with cords of vanity, and ſinne as with cart<g ref="char:EOLhyphen"/>ropes? For though theſe and ſuch like Conveyances may be ſtrong as cartropes, to hold ſuch as uſe them<note n="t" place="margin">2 Tim. 2.26.</note> captives in the devils ſnare; yet they will prove but cords of vanity, yea weaker then vanity it ſelf, to draw away the <note n="u" place="margin">Iſa. 5.21.</note> woes and<note n="*" place="margin">Jer. 17.5.</note> curſes that hang over the heads of ſuch, who are prudent in their own ſight, and whoſe hearts depart from the Lord, and truſt in the arm of fleſh. And what is this better then a thieviſh con<g ref="char:EOLhyphen"/>ſpiracy, to<note n="x" place="margin">Mal. 3.8.</note> rob God of the honour due to him and his Ordinance, and to ſteal a<g ref="char:EOLhyphen"/>way and detain from a husband, yea and that from a beleeving husband, that power and right wherewith the Judge of quick and dead hath inveſted him, by the un<g ref="char:EOLhyphen"/>controulable records of the ſacred Scriptures formerly alledged? Will any of the wiſe children of this world receive and keep goods feloniouſly taken, becauſe in kindneſſe they are brought to him in truſt? Where then was the wiſdome of that godly Truſtee, in diſcerning evil from good, nay in<note n="y" place="margin">Iſa. 5.20.</note> putting evil for good, darkneſſe for light, in enter<g ref="char:EOLhyphen"/>taining
+<pb n="5" facs="tcp:110033:6"/>ſuch truſt? May not here the receiver be as bad, yea in ſome reſpect<note n="z" place="margin">Rom. 1.3.</note> worſe then the ſtealer? And are not they<note n="a" place="margin">Mal. 1.</note> curſed from the Lord, that offer that to God and his Law, which they dare not offer to their Prince?</p>
+            <p>Moreover in this conſpiracy there is not only ſacriledge againſt God, and robbery againſt a brother, but alſo a fearfull degree of murder. For as the vertuous woman is a<note n="b" place="margin">Prov. 12 4.</note> Crown, and<note n="c" place="margin">1 Cor. 11.7</note> glory of her husband; and will not only <note n="d" place="margin">Prov. 31.1 &amp;</note> apply her hands with dili<g ref="char:EOLhyphen"/>gence, but her wits with prudence to uphold her husbands eſtate and honour: ſo ſhe that maketh her husband aſhamed, is as<note n="e" place="margin">Prov. 12.4.</note> rottenneſſe in his bones. Now judge in your ſelves, Is it not a ſhame to a man of wiſedom, that his wife ſhould manifeſt her ſelf to be ſo fooliſh, that ſhe ſhould fear to commit the power and government of her goods to him, whom ſhe boldly took as the fitteſt of all others to have the<note n="f" place="margin">1 Cor. 7.4.</note> power of her body, and the<note n="g" place="margin">Gen. 3.16.</note> rule of the deſires of her ſoul? Is he worthy to govern the greater matters and not the leſſer? This is a ſhame, witneſſe the<note n="h" place="margin">1 Cor. 6.2, 4,</note> Apoſtle <hi>Paul.</hi> And is not this a ſhame to a beleeving husband, that whereas a<note n="i" place="margin">Prov. 18.2.</note> friend ſticketh cloſer then a brother; that a bro<g ref="char:EOLhyphen"/>ther ſhould ſtick neerer to the heart of his wife to be truſted then himſelf who is ſuch a friend, that he muſt<note n="k" place="margin">Eph. 5.25.</note> love his wife even as Chriſt loved his Church and gave himſelf for it? Wherefore if theſe courſes be as rottenneſſe in a husbands bones as God himſelf witneſſeth, then there muſt be a ceaſing of ſuch cruelty, leaſt the marrow which is hereby conſumed in his bones,<note n="l" place="margin">Gen. 4.10.</note> cry unto God as the bloud of <hi>Abel?</hi>
+            </p>
+            <p>
+               <hi>Object</hi> 4. But women are the weaker veſſels, and ſhould not the kindneſſe and patience of a good Husband, yeeld and bear with his Wives weakneſſes in reſerving ſome things, eſpecially trifles in compariſon of the great things ſhe yeelded up to him?</p>
+            <p>
+               <hi>Sol.</hi> I acknowledge that a good Husband muſt ſo love his Wife, that he be not<note n="m" place="margin">Col. 3 19.</note> bit<g ref="char:EOLhyphen"/>ter unto her, and ſo dwell with her<note n="n" place="margin">1 Pet. 3 7.</note> according to knowledge, that it muſt be a<note n="o" place="margin">Pro 19.11.</note> glory to him to paſſe over a tranſgreſſion; yea his love muſt <note n="p" place="margin">1 Pet. 4.8.</note> cover a multitude of her ſins, and for peace ſake<note n="q" place="margin">1 Cor. 13.</note> bear all things, beleeve all things, hope all things, endure all things, as far as the<note n="r" place="margin">Eph. 6.</note> girdle of truth can <note n="ſ" place="margin">Rom. 12.</note> poſſibly ſtretch: So muſt he <note n="t" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4.</note> follow the truth in love, and<note n="u" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 8.19.</note> love the truth and peace. But as<note n="*" place="margin">2 <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> n. v. 1</note> love muſt be in the truth, ſo muſt peace; and love and peace muſt be both broken in the quarrell of truth and faith, for the<note n="x" place="margin">Iude 3.</note> maintenance whereof we muſt carneſtly contend. And Chriſt the<note n="y" place="margin">Iſa. 9.6.</note> Prince of peace, who for<note n="z" place="margin">Ioh. 18.37</note> this cauſe came into the world that he ſhould give witneſſe to the truth, tells us plainly, that in the cauſe of truth<note n="a" place="margin">Mat. 10 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> he came not to ſend peace but a ſword.<note n="b" place="margin">Pro. 23.23</note> Buy the truth and ſell it not (not at any rate) ſaid the<note n="c" place="margin">1 Reg. 4.31</note> wiſeſt among men, who could beſt tell the value of it. There muſt be no merchandize for truth, no torrent of affection may <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ry us on for the ſweet commodities of love and peace to ſayl beyond the line of truth, un<g ref="char:EOLhyphen"/>leſſe we will<note n="c" place="margin">1 Reg. 4.31 1 Tim. 1.19</note> make ſhipwrack of faith. Charity<note n="d" place="margin">1 Cor. 13.</note> rejoyceth not in iniquity but rejoyceth in the truth: and a foul iniquity it were, if the love of Chriſt (<note n="e" place="margin">Ioh. 14.</note> who is the way, the truth and the life,) ſhould not have the<note n="f" place="margin">Col. 1.18.</note> preheminence in all things, above the<note n="g" place="margin">Luk. 14.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Mat. 10 37.</note> love of our ſelves, wives, or any creatures.</p>
+            <p>What ſhould I ſay more? A good husband will not deſpiſe the cauſe of his maidſer<g ref="char:EOLhyphen"/>vant when ſhe contendeth with him, much leſſe of his Wife, but muſt be ready to<note n="h" place="margin">Iob 31.13</note> lay down his life for his wife, much more for peace ſake ſubmit with her to be<note n="i" place="margin">1 Ioh. 3.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> judged be<g ref="char:EOLhyphen"/>fore the Saints; and honour her not only as the weaker veſſell, but as a<note n="k" place="margin">1 Pet. 3 7.</note> coheir with himſelf of the grace of life, if ſhe will learn of <hi>Sarah,</hi> to be ſubject and obedient unto her husband as <hi>Sarah</hi> was. But if her weakneſſe be turned into wilfullneſſe and rebellion a<g ref="char:EOLhyphen"/>gainſt God, ſo that command the Lord what he will, in ſuch and ſuch things as pleaſe her ſhe will not be ſubject to her husband, but in the ſtoutneſſe of her heart preſume to preſcribe againſt God by her conditiens and reſervations:<note n="l" place="margin">ver. 5, 6.</note> in ſuch a caſe as faithfull <hi>Moſes</hi> would not yeeld to <hi>Pharaoh</hi> in a <note n="m" place="margin">Exod. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> hoof, though thereby the lives of many
+<pb n="6" facs="tcp:110033:7"/>thouſands ſeem to be hazarded, nor faithfull <hi>Paul</hi> to the falſe brethren<note n="n" place="margin">Gal. 2.5, 13, 14.</note>, no not for an hour, that the truth of the Goſpel might continue, though <hi>Peters</hi> diſſembling there<g ref="char:EOLhyphen"/>in were openly reproved to his ſhame: ſo a faithfull husband ſhould not yeeld to his wife, no, not for an hour, nor in a hoof, though it put her to as open a ſhame as<note n="o" place="margin">Num. 12.14,</note> 
+               <hi>Mi<g ref="char:EOLhyphen"/>riam</hi> was for muttering againſt <hi>Moſes,</hi> that the bounds of Gods Ordinance may continue ſtedfaſt.</p>
+            <p>And concerning the pretended patience of a Husband, know that God hath coupled<note n="p" place="margin">2 Pet. 1.6.</note> patience and godlineſſe together; and therefore in ſuch rebellion againſt God, a godly husband in Chriſtian<note n="q" place="margin">Rev 2.2.</note> patience cannot bear with his wife, but<note n="r" place="margin">Pro. 28.4.</note> ſet himſelf againſt her, leaſt Chriſt ſpue him out of his mouth for lukewarmneſſe. And if under colour of kind<g ref="char:EOLhyphen"/>neſſe he ſhould ſuffer ſin upon her with ſleight rebukes, he ſhould<note n="t" place="margin">Rev. 3.16.</note> hate her in his heart, and therein be no leſſe then a murderer. Did not <note n="u" place="margin">Lev. 19.17.</note> meek <hi>Moſes</hi> ſo long for his wives ſake forbear the<note n="*" place="margin">1 Ioh. 3.15.</note> circumciſing of his childe, that the Lord met with him and ſought to kill him, had not his wife ſuddenly put it in execution, though ſhe caſt the foreskin at his feet and ſaid, Surely a bloudy husband thou art to me? And was not the<note n="x" place="margin">Exod. 4.24, 25, 26.</note> judge<g ref="char:EOLhyphen"/>ment of God heavy upon old <hi>Ely</hi> and his houſe for ever, becauſe his ſons made themſelves vile and he reſtrained them not? And as it <note n="y" place="margin">1 Sam. 3.13.</note> multiplied <hi>Eves</hi> ſorrows, becauſe her familiarity and voice<note n="z" place="margin">Gen. 3.16. verſe 6.</note> occaſioned her husband to yield to ſecond her in eating the forbidden fruit (being commended and given to him by her who was his<note n="a" place="margin">Prov. 5.19.</note> loving, kinde and pleaſant Roe, with whoſe love he was raviſhed) ſo it aggravated <hi>Adams</hi>
+               <note n="b" place="margin">Gen. 3.17.</note> ſorrows all the daies of his life, becauſe he ſo hearkened to the voice of his Wife, croſſing Gods Commandment. Therefore as Chriſt knowing the<note n="c" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 5.11.</note> terrour of the Lord in the way of his judgements, ſaith, <note n="d" place="margin">Luke 17.32.</note> 
+               <hi>Remember Lots wife:</hi> So ſay to all married perſons, Remember <hi>Adam</hi> and <hi>Eve.</hi>
+            </p>
+            <p>
+               <hi>Obj.</hi> But what if the husband knew before marriage ſuch purpoſes and reſervations of his future wife, and conſented to them and promiſed to ratifie them?</p>
+            <p>
+               <hi>Sol.</hi> If husband and wife before marriage ſhould ſo compact and conſent together, I ſay it were a fearfull ſtep towards that downfall ſinne of<note n="y" place="margin">Act. 5.1, &amp;c.</note> 
+               <hi>Ananias</hi> and <hi>Sapphira:</hi> And ſaith not the Lord,<note n="z" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 5.19, 20.</note> He that covereth his ſins ſhall not proſper, but whoſo confeſſeth and forſaketh them ſhall have mercy? We therefore being Ambaſſadors for Chriſt, to whom he hath committed the word of reconciliation, beſeech ſuch in Chriſts ſtead, Be reconciled to God, and<note n="a" place="margin">Dan. 4.14.</note> Break off your ſins by righteouſneſs, and<note n="b" place="margin">Micah 6.8.</note> humble your ſelves to walk with God, keeping your ſelves within the bounds of Gods Ordinance, and ſo<note n="c" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſa. 55.7.</note> return unto the Lord and he will have mercy upon you, and to our God, for he will abundantly pardon. For though mens<note n="d" place="margin">Pſal. 15.4.</note> oathes and promiſes tending to their own hurt are not to be changed, yet none are to be kept that tend to the<note n="e" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om. 2.23.</note> diſhonour of God and breach of his Law, no more then the<note n="f" place="margin">Micah. 6.16.</note> ſtatutes of <hi>Omri,</hi> or the raſh<note n="g" place="margin">Sam. 25.22, 34, 35.</note> oath of <hi>David,</hi> who bleſſed God for ſending <hi>Abigail</hi> to meet him, and to keep him from performing ſuch an unadviſed, bloody oath.</p>
+            <p>Who would have thought that ever <hi>Jephtah</hi> (<note n="a" place="margin">Heb. 11.4.</note> regiſtred in the catalogue of the faith<g ref="char:EOLhyphen"/>full) who<note n="b" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udg. 12.13.</note> put his life in his hands to avenge the<note n="c" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udg. 11.27.</note> wrongs of <hi>Iſrael</hi> upon the children of <hi>Ammon,</hi> ſhould ſo<note n="d" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udg. 11.39.</note> unnaturally wrong his own daughter and<note n="e" place="margin">verſe 34.</note> only childe, when the forethought of it made him to rent his clothes and cry alas? Or that King <hi>Herod,</hi> who<note n="f" place="margin">Mark 6.20.</note> feared <hi>John Baptiſt,</hi> knowing that he was a juſt man and holy, and<note n="g" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſaved him (againſt the<note n="h" place="margin">verſe 19.</note> bloudy purpoſe of <hi>Herodias</hi>) and when he heard him he did many things, and heard him gladly, that ever he would become a bloudy butcher to behead ſo reve<g ref="char:EOLhyphen"/>rend a Prophet, yea<note n="i" place="margin">Matth. 11.9.</note> more then a Prophet, though he were<note n="k" place="margin">Mark 6.26.</note> exceeding ſorry to hear and think of it? Had yet the devil, that<note n="l" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orin 8.44.</note> murderer from the beginning, brought theſe things to paſs under pretence of a<note n="m" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udg. 5.35, 39.</note> vow, and a<note n="n" place="margin">Mar. 6.22, 26</note> promiſe bound by an oath? Now
+<pb n="7" facs="tcp:110033:7"/>
+               <note n="o" place="margin">1 Cor. 1</note> happened not theſe things to them for enſamples? and they are written to admoniſh us, that under fair pretences we<note n="p" place="margin">Prov. 3.</note> lean not to our own wiſdom, leaſt<note n="q" place="margin">1 Cor. 1.</note> Satan who tranſ<g ref="char:EOLhyphen"/>formeth himſelf into an Angel of light (though he<note n="r" place="margin">Heb. 2.1.</note> hath the power of death) ſtick the<note n="ſ" place="margin">1 Cor. 15</note> ſting of death in mens ſouls, ſo that they cannot<note n="t" place="margin">2 Pet. 2.1</note> ceaſe to ſin, but<note n="u" place="margin">2 Tim. 3</note> wax worſe &amp; worſe, deceiving and being deceived, whiles Satan gets advantage of us by his deviſes.</p>
+            <p>Ask ye how? I pray the Lord, even the<note n="x" place="margin">Zac. 3.2.</note> Lord who hath choſen <hi>Jeruſalem,</hi> to re<g ref="char:EOLhyphen"/>buke Satan that<note n="y" place="margin">Rev. 12.1</note> accuſer of the brethren, that accuſeth us before our God day and night;<note n="*" place="margin">2 Cor. 2.</note> leſt he procure the<note n="z" place="margin">Eze. 14.1</note> puniſhment of the husband to be as the puniſhment of the wife that ſeeks his conſent; and leaſt in<note n="a" place="margin">Exod. 18</note> that very thing wherein they have dealt proudly, not<note n="b" place="margin">Prov. 3.6</note> acknowledging God in their waies, God be above them both in the way of his judgements: And then to their ſhame (<note n="c" place="margin">Pro. 11.2 16.</note> which is the pay-maſter of pride) they may <note n="d" place="margin">Jer. 44.28</note> know whoſe words ſhall ſtand, Gods or theirs; and what<note n="e" place="margin">Jer. 2.19.</note> an evil and bitter thing it is for wives to ſet up their<note n="f" place="margin">Eze. 14.</note> Idols in their hearts, and for husbands by yielding to them to<note n="g" place="margin">Exod. 32. verſe 6.</note> make them naked to their ſhame, as <hi>Aaron</hi> made the people of <hi>Iſrael</hi> naked unto their ſhame among their enemies, the iſſue whereof was as wofull as ſhamefull. For whiles they made it their May-game and Play to ſacrifice to their molten Calf, not only was it ſtamped to powder, and the people made to drink of it, and three thouſand of them ſlain for it, but both they and <hi>Aaron</hi> (who <note n="i" place="margin">Exod. 32.2. Deut. 9.19, 20.</note> brought ſo great a ſin upon them) had been<note n="h" place="margin">Exod. 32.</note> deſtroyed by God, had not <hi>Moſes</hi> his choſen prayed for them, and ſtood before him in the breach to turn away his wrath, leaſt he ſhould deſtroy them. And when God ſeeks for ſuch a man to ſtand in the gap before him, ſhould he finde none?<note n="k" place="margin">Eze. 22.30. Pſal. 106.23. Exod. 32.</note>
+            </p>
+            <p>As this Authour aged now 83 years confeſſeth that his heart burned within him, till for reſolution of the Queſtion he had ſet up this poor Candle on a Candleſtick, ſo he praieth and hopeth that the<note n="l" place="margin">Iſa. 4.4.</note> ſpirit of judgement, and the ſpirit of burning will make ſome Learned and Judicious hearts (among the many <note n="m" place="margin">Joh. 5.35.</note> burning Lamps, ſhining in and about <hi>London</hi>) to<note n="n" place="margin">Luc. 24.</note> burn within them alſo, till their light ſhine forth for clear reſo<g ref="char:EOLhyphen"/>lution of theſe two Queſtions enſuing.</p>
+            <p n="1">1. Whether Merchants<note n="o" place="margin">2 Pet. 2.3. Rev. 8.1.</note> make not merchandiſe of the ſouls of men, when they ſend their Factors and Servants into <hi>Spain, Turkey,</hi> and ſuch Idolatrous and Mahumetan pla<g ref="char:EOLhyphen"/>ces, there to abide many years free from the<note n="p" place="margin">Eph. 4.11,</note> Work of the Miniſtry, as <hi>Paul</hi> ſaith, <note n="q" place="margin">Rom. 8.20</note> where men are the ſervants of ſinne they are free from righteouſneſs?</p>
+            <p n="2">2. Whether <hi>Indian</hi> Merchants (and ſuch Maſters as will binde their Apprentices from Marriage till they come to about 26 years of age) and many others of ſeveral Ranks, give not great advantage to<note n="r" place="margin">1 Cor. 7.5.</note> Satan to tempt ſouls to Incontinency, and attract to their own ſouls the guilt of many Adulteries and Whoredoms, when for filthy lucre, husbands are ſequeſtred from wives (eſpecially young Marriners from their new married wives) and others ſo reſtrained from Marriage, though they burn, as though the Scriptures quoted in the<note n="ſ" place="margin">1 Cor. 7.1 &amp; 1 Pet. 3.7. Eph 5.31. Pro. 27.8.</note> margent were either not given by Inſpiration of God, or may not binde the conſciences of men.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
